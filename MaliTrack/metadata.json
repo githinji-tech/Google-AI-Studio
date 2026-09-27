@@ -1,0 +1,6 @@
+{
+  "name": "MaliTrack",
+  "description": "Student-focused personal finance tracker built around money remaining & safe daily spend. Features 'Can I Afford This?' purchase simulator, Month-End Runway guide, leak detector, and mobile money parser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
